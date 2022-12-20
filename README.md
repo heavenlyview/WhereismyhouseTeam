@@ -1,6 +1,6 @@
 # 내집어딨조
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내집어딨조&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내집어딨조&fontSize=100" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
