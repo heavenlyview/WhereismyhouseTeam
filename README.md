@@ -41,11 +41,16 @@
 3. 사용 환경  
 
 4. 팀원   
-|<img src="https://github.com/~~~.png" width="80">|<img src="https://github.com/~~~.png" width="80">|
-|:---:|:---:|
-|[](https://github.com/ImInnocent)|[](https://github.com/dearyeon)|
-|블록체인|프론트엔드|
 
+|<img src="https://thumb.mt.co.kr/06/2022/08/2022080510591029236_1.jpg" width="100">|<img src="https://pbs.twimg.com/media/DdCRW8NU0AEVjw6?format=jpg&name=4096x4096" width="100">|
+|:---:|:---:|
+|[김보성](https://github.com/heavenlyview)|[이호재](https://github.com/dearyeon)|
+|프론트엔드|프론트엔드|
+
+|<img src="https://cdn.k-trendynews.com/news/photo/202211/149873_204830_240.jpg" width="100">|<img src="https://cdn.lecturernews.com/news/photo/202211/112681_346644_4230.jpg" width="100">|
+|:---:|:---:|
+|[윤소정](https://github.com/ImInnocent)|[허성백](https://github.com/dearyeon)|
+|벡엔드|프로젝트총괄|
 5. 참고 자료  
 
 
