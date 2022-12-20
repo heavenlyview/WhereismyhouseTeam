@@ -32,11 +32,19 @@
 1. 서비스  
 프로젝트명: 쪽집게
 
+2. 기획 배경  
+
+
 2. 설명  
+- 개인 맞춤형 부동산 원룸 매물 추천 서비스
 
 3. 사용 환경  
 
-4. 팀원  
+4. 팀원   
+|<img src="https://github.com/~~~.png" width="80">|<img src="https://github.com/~~~.png" width="80">|
+|:---:|:---:|
+|[](https://github.com/ImInnocent)|[](https://github.com/dearyeon)|
+|블록체인|프론트엔드|
 
 5. 참고 자료  
 
