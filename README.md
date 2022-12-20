@@ -1,6 +1,6 @@
-# WhereismyhouseTeam
+# 내집어딨조
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내집어딨죠&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내집어딨조&fontSize=90" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -19,7 +19,7 @@
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<br>
-
+</div>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -31,4 +31,19 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 
 </div>
-내집어딨죠 프로젝트 리포지토리입니다.
+<h2>내집어딨조 프로젝트 리포지토리입니다.</h2>
+
+# 소개
+
+1. 서비스  
+프로젝트명: 쪽집게
+
+2. 설명  
+
+3. 사용 환경  
+
+4. 팀원  
+
+5. 참고 자료  
+
+
