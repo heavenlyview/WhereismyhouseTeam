@@ -14,6 +14,7 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" width='350px'; height='150px';/></a>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" width='350px'; height='150px';/>
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" width='350px'; height='150px';/>
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" width='350px'; height='150px';/>
 </div>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
