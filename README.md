@@ -1,4 +1,3 @@
-# 내집어딨조
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내집어딨조&fontSize=100" />	
 </div>
@@ -25,7 +24,12 @@
 	<br>
 
 </div>
-<h2>내집어딨조 프로젝트 리포지토리입니다.</h2>
+
+<div align=center>
+<img src=![jjg](https://user-images.githubusercontent.com/101788676/209028990-f591ac11-ad6b-4517-b118-866599055835.jpeg)/>
+<h1>쪽 집 게</h1>
+<h3>개인 맞춤형 부동산 원룸 매물 추천 서비스</h3>
+</div>
 
 # 소개
 
