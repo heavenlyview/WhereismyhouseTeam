@@ -26,7 +26,7 @@
 </div>
 
 <div align=center>
-<img src=![jjg](https://user-images.githubusercontent.com/101788676/209028990-f591ac11-ad6b-4517-b118-866599055835.jpeg)/>
+<img src="https://user-images.githubusercontent.com/101788676/209029191-cb51e626-6960-4e0b-9ec0-62b74823dd31.jpeg"/>
 <h1>쪽 집 게</h1>
 <h3>개인 맞춤형 부동산 원룸 매물 추천 서비스</h3>
 </div>
